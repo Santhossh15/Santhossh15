@@ -8,7 +8,7 @@
   </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/santhossh-v-a52b93262" target="blank">
+  <a href="www.linkedin.com/in/santhossh-v" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/santhossh15" target="blank">
